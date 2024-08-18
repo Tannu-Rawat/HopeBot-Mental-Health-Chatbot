@@ -11,6 +11,6 @@ HopeBot is a chatbot designed to detect potential suicidal messages and provide 
 - **Supportive Responses:** It provides appropriate responses and helplines for users who might be in distress.
 - **Interactive Interface:** The chatbot features a user-friendly interface with a modern look.
 ## Image
-![Representation of Chatbot](Screenshot_2024-08-18_122716.png)
+![Representation of Chatbot](SS.png)
 
 # Thank-You for exploring the project. I hope this chatbot will provide valuable support to those in need. We will definately try to bring more features in it :D
