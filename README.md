@@ -72,14 +72,8 @@ for test_input in test_inputs:
     print(f"Response: {get_response(test_input)}\n")
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or issues, please contact [your email address].
+For any questions or issues, please contact. Details in are in my github profile.
 
----
-
-Feel free to add or modify sections based on additional features or details specific to your project.
